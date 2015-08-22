@@ -69,6 +69,7 @@ table {
     color: #ffffff;
     width: 250px;
     background-image: url("../img/logo.png");
+    background-size: 99px 70px;
     height: 70px;
     position:fixed;
     top:10px;
