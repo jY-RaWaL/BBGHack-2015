@@ -70,6 +70,7 @@ table {
     width: 250px;
     background-image: url("../img/logo.png");
     background-size: 99px 70px;
+    background-repeat: no-repeat;
     height: 70px;
     position:fixed;
     top:10px;
